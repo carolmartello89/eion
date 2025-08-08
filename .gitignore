@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+venv/
+ENV/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+.env.local
+.env.*.local
+pnpm-lock.yaml
+yarn.lock
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# Outros
+.DS_Store
+Thumbs.db
